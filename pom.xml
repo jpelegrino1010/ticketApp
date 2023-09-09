@@ -55,6 +55,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>ticketapp-integration</finalName>
     </build>
 
 </project>
